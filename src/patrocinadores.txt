@@ -1,0 +1,21 @@
+CocaCola P0
+BurgerKing P1
+BWIN P2
+Endesa P3
+Iberdrola P4
+Netflix P5
+Google P6
+Samsung P7
+Huawei P8
+FlyEmirates P9
+Etihad P10
+Corona P11
+McDonalds P12
+Nestle P13
+Mahou P14
+Sony P15
+Renault P16
+Porsche P17
+DHL P18
+Correos P19
+
